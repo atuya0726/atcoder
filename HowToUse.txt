@@ -1,0 +1,5 @@
+./abcsetup.sh xxx　
+でディレクトリが作られる。
+
+ctrl + shift + B 
+でオートコンパイル
